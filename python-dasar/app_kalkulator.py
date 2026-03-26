@@ -77,5 +77,5 @@ def app_menu():
         except ValueError:
             print("Error: masukan pilihan yang valid")
 
-if __name__ == "__main__":
+
     app_menu()

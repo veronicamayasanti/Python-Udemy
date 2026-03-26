@@ -37,3 +37,4 @@ print(garis * 20)
 kalimat = "Python adalah bahasa pemrograman"
 print("Python" in kalimat)
 print("Java" in kalimat)
+
