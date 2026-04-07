@@ -1,0 +1,50 @@
+What color is the sky? | blue, red, green, yellow
+What color is grass? | green, blue, black, pink
+What color is a banana? | yellow, purple, blue, black
+What color is an apple? | red, blue, green, black
+What color is milk? | white, black, blue, red
+What color is coal? | black, white, yellow, pink
+What color is a carrot? | orange, green, blue, purple
+What color is the sun? | yellow, blue, black, green
+What color is a strawberry? | red, yellow, green, blue
+What color is a leaf? | green, red, blue, black
+What animal says "meow"? | cat, dog, cow, duck
+What animal says "woof"? | dog, cat, cow, sheep
+What animal says "moo"? | cow, dog, cat, bird
+What animal says "quack"? | duck, chicken, dog, cat
+What animal can fly? | bird, fish, dog, cat
+What animal lives in water? | fish, dog, cat, cow
+What animal is big and gray? | elephant, cat, dog, bird
+What animal has a long neck? | giraffe, dog, cat, fish
+What animal is small and says "squeak"? | mouse, dog, cat, cow
+What animal barks? | dog, cat, cow, duck
+What is this? (you write with it) | pencil, chair, table, bed
+What is this? (you read it) | book, pen, shoe, bag
+What is this? (you sit on it) | chair, book, pen, ball
+What is this? (you sleep on it) | bed, table, chair, shoe
+What is this? (you carry things in it) | bag, book, chair, pen
+How many apples are there? (2 apples) | two, three, four, five
+How many cats are there? (1 cat) | one, two, three, four
+How many dogs are there? (3 dogs) | three, two, four, five
+How many birds are there? (4 birds) | four, three, five, six
+How many balls are there? (5 balls) | five, four, six, seven
+What is the first letter of "apple"? | a, b, c, d
+What is the first letter of "ball"? | b, a, c, d
+What is the first letter of "cat"? | c, a, b, d
+What is the first letter of "dog"? | d, a, b, c
+What is the first letter of "egg"? | e, a, b, c
+What do you use to eat? | spoon, book, chair, pen
+What do you use to drink? | cup, shoe, bag, book
+What do you wear on your feet? | shoes, hat, shirt, bag
+What do you wear on your head? | hat, shoes, pants, socks
+What do you wear on your body? | shirt, hat, shoe, cup
+Which one is a fruit? | apple, chair, table, shoe
+Which one is a fruit? | banana, pen, bag, book
+Which one is a fruit? | orange, chair, shoe, hat
+Which one is a drink? | milk, chair, shoe, pen
+Which one is a drink? | water, book, hat, bag
+Which one is a vehicle? | car, apple, dog, chair
+Which one is a vehicle? | bus, cat, book, pen
+Which one is a vehicle? | bike, dog, hat, apple
+Which one is a toy? | ball, chair, book, pen
+Which one is a toy? | doll, shoe, bag, hat
