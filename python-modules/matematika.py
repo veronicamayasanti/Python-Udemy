@@ -17,3 +17,6 @@ def bagi(a, b):
 
 PI = 3.14159
 NAMA_PEMBUAT = "Tim Matematika"
+
+if __name__ == "__main__":
+    print("program ini tidak bisa dijalankan sebagai modul")
