@@ -1,0 +1,45 @@
+
+my_medium_project/
+    main.py         entry point
+    config.py       konfigurasi
+    requirements        dependencies
+    README.md           dokumentasi
+    modules/            package untuk modules
+        __init__.py
+        database.py     database operations
+        api.py          API functions
+        utils.py        utilities
+    data/           folder untuk data files
+        input.txt
+        output.csv
+
+
+
+my_large_project/
+    main.py
+    config.py
+    requirements.txt
+    README.md
+    src/                 # Source code utama
+        __init__.py
+        core/            # Core functionality
+            __init__.py
+            engine.py
+            processor.py
+        utils/           # Utility modules
+            __init__.py
+            helpers.py
+            validators.py
+        models/          # Data models
+            __init__.py
+            user.py
+            product.py
+        data/                # Data files
+            raw/
+            processed/
+        tests/               # Testing files
+            __init__.py
+            test_core.py
+            test_utils.py
+        docs/                # Documentation
+            manual.md
